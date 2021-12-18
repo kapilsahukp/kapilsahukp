@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kapilsahukp](https://github.com/kapilsahukp)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Python, R, C++ and Data Science**
 
 - 📫 How to reach me **kapilsahu2102@gmail.com**
 
