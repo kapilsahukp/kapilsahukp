@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
+- 👨‍💻 I’m currently pursuing **Masters in Data Science @Northeastern University**
+
 - 👨‍💻 All of my projects are available at [https://github.com/kapilsahukp](https://github.com/kapilsahukp)
 
 - 💬 Ask me about **python**
