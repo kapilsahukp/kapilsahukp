@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/image1.jpg)]
+
 <h1 align="center">Hi 👋, I'm Kapil Sahu</h1>
 <h3 align="center">A data science enthusiast who loves storytelling!!</h3>
 
