@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilsahu&label=Profile%20views&color=0e75b6&style=flat" alt="kapilsahu" /> </p>
 
-- 🔭 I’m currently working on **Reddit Comments Sarcasm Detection**
+- 🔭 I’m currently working on **Reddit Comments Sarcasm Detection** and **SMS Spam Detection**
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m learning **Natural Language Processing**
 
 - 👨‍💻 I’m currently pursuing **Masters in Data Science @Northeastern University**
 
