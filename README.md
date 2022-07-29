@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python, R, C++ and Data Science**
 
-- 📫 How to reach me **kapilsahu2102@gmail.com**
+- 📫 How to reach me? E-mail: **kapilsahu2102@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kapilsahu-](https://www.linkedin.com/in/kapilsahu-)
 
