@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kapil Sahu</h1>
 <h3 align="center">A data science enthusiast who loves telling stories around 'data'!!</h3>
-<a align="center" href = "https://kapilsahukp.github.io" style="color: red"><h4 align="center">Portfolio Website</h4></a>
+<h4 align="center"><a href = "https://kapilsahukp.github.io" style="color: red">Portfolio Website</a></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilsahu&label=Profile%20views&color=0e75b6&style=flat" alt="kapilsahu" /> </p>
 
