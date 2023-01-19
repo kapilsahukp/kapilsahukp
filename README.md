@@ -9,7 +9,7 @@
 
 - 🌱 I’m studying **Deep Learning**.
 
-- 👨‍💻 I’m a **Data Scientist** and working as an intern @**Charles River Data**.
+- 👨‍💻 I’m a **Data Scientist** and have experience of working as an intern @**Charles River Data**.
 
 - 👨‍💻 I’m currently pursuing **Masters in Data Science @Northeastern University**
 
