@@ -19,7 +19,7 @@
 
 - 📫 How to reach me? E-mail: **kapilsahu2102@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kapilsahu-](https://www.linkedin.com/in/kapilsahu-)
+- 📄 Know more about my experiences [https://www.linkedin.com/in/kapilsahu-](https://www.linkedin.com/in/kapilsahu-)
 
 - ⚡ Fun fact **I love movies and cooking!! Aha!**
 
