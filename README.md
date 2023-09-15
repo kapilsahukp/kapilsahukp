@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **An Anomaly Detection project using Generative Adversarial Networks(GANs)**.
 
-- 🌱 I’m studying **Deep Learning**.
+- 🌱 I’m studying **Artificial Intelligence**.
 
-- 👨‍💻 I’m a **Data Scientist** @**Charles River Data**.
+- 👨‍💻 I have worked as a **Data Scientist** @**Charles River Data**.
 
 - 👨‍💻 I’m currently pursuing **Masters in Data Science @Northeastern University**
 
