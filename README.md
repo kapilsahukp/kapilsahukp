@@ -11,11 +11,11 @@
 
 - 👨‍💻 I have worked as a **Data Scientist** @**Charles River Data**.
 
-- 👨‍💻 I’m currently pursuing **Masters in Data Science @Northeastern University**
+- 👨‍💻 I have a **Masters Degree in Data Science** from **Northeastern University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kapilsahukp](https://github.com/kapilsahukp)
 
-- 💬 Ask me about **Python, R, C++ and Data Science**
+- 💬 Ask me about **Python, Data Science, ML, and Data Analytics**
 
 - 📫 How to reach me? E-mail: **kapilsahu2102@gmail.com**
 
